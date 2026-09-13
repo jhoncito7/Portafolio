@@ -3,7 +3,7 @@ import { Reveal } from '@/components/ui/Reveal'
 import { Counter } from '@/components/ui/Counter'
 
 const paragraphs = [
-  'Soy desarrollador web full-stack y me enfoco en crear aplicaciones modernas, responsivas y mantenibles. Trabajo con React, TypeScript y Tailwind en el frontend, y con Node.js, Express y SQL en el backend.',
+  'Soy desarrollador web full-stack y me enfoco en crear aplicaciones modernas, responsivas y mantenibles. Trabajo con React, TypeScript y Tailwind en el frontend, y con Node.js, Express, Django y SQL en el backend.',
   'He desarrollado sistemas reales como SISCOLAS (gestión de colas), módulos de consulta de información y BAML, una mesa de ayuda para gestión de incidencias. En cada proyecto priorizo la claridad del flujo, el rendimiento y la accesibilidad.',
   'Transformo ideas en soluciones funcionales y estéticamente cuidadas, con código ordenado y una experiencia de usuario pensada para las personas que usan el sistema todos los días.',
   'Me mantengo en constante aprendizaje de las últimas tecnologías y buenas prácticas, trabajando con metodologías ágiles y entregas por etapas validadas con el cliente.',

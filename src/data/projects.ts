@@ -21,7 +21,7 @@ export const projects: Project[] = [
       'Reportes y estadísticas de tiempos de espera',
       'Roles y permisos por tipo de usuario',
     ],
-    stack: ['React', 'TypeScript', 'Django', 'MySQL', 'Tailwind CSS'],
+    stack: ['React', 'TypeScript', 'Django', 'DRF', 'WebSockets', 'Redis', 'MySQL', 'Tailwind CSS', 'Docker'],
     metrics: [
       { label: 'Módulos', value: '5' },
       { label: 'Roles de usuario', value: '4' },
@@ -55,7 +55,7 @@ export const projects: Project[] = [
       'Validación de datos y manejo de errores',
       'Interfaz accesible y responsiva',
     ],
-    stack: ['React', 'TypeScript', 'Node.js', 'MySQL', 'REST API'],
+    stack: ['React', 'TypeScript', 'Django', 'DRF', 'JWT', 'Redux Toolkit', 'ApexCharts', 'MySQL', 'Docker'],
     metrics: [
       { label: 'Base de datos', value: 'MySQL' },
       { label: 'Fuentes de datos', value: 'APIs externas' },
@@ -73,7 +73,7 @@ export const projects: Project[] = [
     id: 'baml',
     title: 'BAML',
     tagline: 'Mesa de ayuda y gestión de incidencias',
-    category: 'Mesa de ayuda',
+    category: 'Sistema web',
     role: 'Desarrollo full-stack',
     year: '2025',
     summary:
@@ -89,7 +89,7 @@ export const projects: Project[] = [
       'Historial y trazabilidad de cada caso',
       'Panel con indicadores de la mesa de ayuda',
     ],
-    stack: ['React', 'TypeScript', 'Node.js', 'Express', 'SQL', 'Tailwind CSS'],
+    stack: ['React', 'TypeScript', 'Django', 'DRF', 'JWT', 'WebSockets', 'MySQL', 'Excel', 'cPanel/VPS'],
     metrics: [
       { label: 'Tipos de ticket', value: '6' },
       { label: 'Estados de flujo', value: '5' },
