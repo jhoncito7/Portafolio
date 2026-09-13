@@ -15,6 +15,7 @@ const technologies = [
   'TypeScript',
   'Next.js',
   'Node.js',
+  'Django',
   // 'Express',
   'SQL',
   'Tailwind CSS',
@@ -87,7 +88,6 @@ export function Hero() {
         <Reveal delay={150} className="flex justify-center lg:justify-end">
           <div className="relative">
             <div className="absolute inset-0 -z-10 rounded-full bg-gradient-to-tr from-brand to-accent opacity-30 blur-3xl" />
-            <div className="absolute -right-4 -top-4 h-20 w-20 animate-float rounded-2xl border border-white/40 bg-white/60 backdrop-blur-sm motion-reduce:animate-none dark:border-white/10 dark:bg-white/5" />
             <div className="h-64 w-64 animate-float overflow-hidden rounded-[2rem] border-4 border-white/80 shadow-glow outline outline-[6px] outline-brand/15 motion-reduce:animate-none sm:h-80 sm:w-80 lg:h-[26rem] lg:w-[26rem]">
               <img
                 src="/lee.jpeg"

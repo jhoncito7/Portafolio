@@ -8,7 +8,7 @@ export const profile = {
   tagline: 'Construyo sistemas y aplicaciones web centradas en las personas.',
   description:
     'Desarrollo soluciones web de extremo a extremo: interfaces modernas con React y TypeScript, APIs REST y bases de datos SQL, cuidando el rendimiento, la accesibilidad y una experiencia de usuario clara.',
-  location: 'Lima, Perú',
+  location: 'Iquitos, Perú',
   email: 'leeramirez.colomajhon98@gmail.com',
   phone: '+51 928280765',
   phoneRaw: '51928280765',

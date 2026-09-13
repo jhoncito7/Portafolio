@@ -14,7 +14,7 @@ export const experience: ExperienceEntry[] = [
       'BAML: mesa de ayuda para gestión y seguimiento de incidencias.',
       'Módulos de consultas con filtros y exportación de datos.',
     ],
-    tags: ['React', 'TypeScript', 'Node.js', 'Express', 'SQL', 'Tailwind CSS'],
+    tags: ['React', 'TypeScript', 'Django', 'Django REST Framework', 'MySQL', 'Tailwind CSS', 'Docker', 'Redis', 'WebSockets', 'JWT'],
   },
   {
     period: '2025 — 2025',
